@@ -1,0 +1,6 @@
+pydantic
+ipykernel
+langchain
+python-dotenv
+langchain-community
+pypdf
