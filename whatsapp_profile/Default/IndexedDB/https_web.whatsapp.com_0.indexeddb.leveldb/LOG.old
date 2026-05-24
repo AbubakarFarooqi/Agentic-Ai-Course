@@ -1,0 +1,28 @@
+2026/05/24-15:43:56.321 2288 Reusing MANIFEST D:\Agentic Ai course\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/24-15:43:56.321 2288 Recovering log #20
+2026/05/24-15:43:56.346 2288 Reusing old log D:\Agentic Ai course\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000020.log 
+2026/05/24-15:43:56.346 2288 Delete type=2 #18
+2026/05/24-15:43:56.346 2288 Delete type=2 #19
+2026/05/24-15:43:56.346 2288 Delete type=2 #21
+2026/05/24-15:44:01.881 87e0 Level-0 table #26: started
+2026/05/24-15:44:01.935 87e0 Level-0 table #26: 1172991 bytes OK
+2026/05/24-15:44:01.937 87e0 Delete type=0 #20
+2026/05/24-15:44:01.948 87e0 Compacting 1@1 + 2@2 files
+2026/05/24-15:44:02.083 87e0 Generated table #27@1: 44784 keys, 2202155 bytes
+2026/05/24-15:44:02.163 87e0 Generated table #28@1: 24808 keys, 1425537 bytes
+2026/05/24-15:44:02.163 87e0 Compacted 1@1 + 2@2 files => 3627692 bytes
+2026/05/24-15:44:02.164 87e0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/24-15:44:10.883 87e0 Level-0 table #30: started
+2026/05/24-15:44:10.924 87e0 Level-0 table #30: 1054070 bytes OK
+2026/05/24-15:44:10.925 87e0 Delete type=2 #22
+2026/05/24-15:44:10.926 87e0 Delete type=2 #23
+2026/05/24-15:44:10.926 87e0 Delete type=0 #25
+2026/05/24-15:44:10.926 87e0 Delete type=2 #26
+2026/05/24-15:44:10.936 87e0 Compacting 1@1 + 2@2 files
+2026/05/24-15:44:11.043 87e0 Generated table #31@1: 47465 keys, 2204839 bytes
+2026/05/24-15:44:11.099 87e0 Generated table #32@1: 25684 keys, 1610949 bytes
+2026/05/24-15:44:11.100 87e0 Compacted 1@1 + 2@2 files => 3815788 bytes
+2026/05/24-15:44:11.101 87e0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/24-15:44:11.101 87e0 Delete type=2 #27
+2026/05/24-15:44:11.101 87e0 Delete type=2 #28
+2026/05/24-15:44:11.101 87e0 Delete type=2 #30

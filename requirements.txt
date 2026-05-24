@@ -2,3 +2,4 @@ tiktoken
 ipykernel
 openai
 python-dotenv
+playwright

@@ -37,6 +37,14 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Prompt/gf.py
+
+# dotenv
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
 
 # PyInstaller
 
@@ -161,3 +169,5 @@ dmypy.json
 
 *.tmp
 *.swp
+
+
